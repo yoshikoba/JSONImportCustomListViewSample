@@ -1,0 +1,24 @@
+{
+  "data":[
+    {
+      "pronounce":"さぬきうどん くらのすけ",
+      "shopName":"讃岐うどん 蔵之介",
+      "area":"東京都豊島区"
+    },
+    {
+      "pronounce":"さぬきうどん いわい",
+      "shopName":"讃岐うどん いわい",
+      "area":"東京都北区"
+    },
+    {
+      "pronounce":"すみた",
+      "shopName":"すみた",
+      "area":"東京都北区"
+    },
+    {
+      "pronounce":"まるか",
+      "shopName":"丸香",
+      "area":"東京都千代田区"
+    }
+  ]
+}
